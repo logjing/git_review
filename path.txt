@@ -1,0 +1,13 @@
+MIA net:	
+https://github.com/Aldrich2y/MIANet
+三联体triplet loss，将Do prototype作为anchor，加大target 和 background的距离
+
+
+Self-Support Few-Shot Semantic Segmentation:
+https://github.com/fanq15/SSP
+由置信度较高的query构建prototype的同时将自己补充完整
+
+
+NTRENet:Learning Non-target Knowledge for Few-shot Semantic Segmentation:
+https://github.com/LIUYUANWEI98/NERTNet
+bg prototype的构建以及Do prototype的构建
